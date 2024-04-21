@@ -1,0 +1,2 @@
+# EventSigmaLLC Event Management System
+ The Event Management System by Event Sigma LLC represents a forward-thinking approach to overcoming the specialized and industry-specific constraints found in current event management applications. The primary aim of our software is to enhance the efficiency of allocating resources during the planning and scheduling stages of cooperative events, achieved by offering a unified platform that caters to a diverse range of users.
